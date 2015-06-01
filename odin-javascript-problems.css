@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    outline: 1px solid black;
+}
+
+#wrapper{
+    margin: 0px 0px 20px 30px;
+    font-family: Lato, Tahoma, Arial, sans-serif;
+    line-height: 38px;
+    font-weight: 100;
+}
+
+#wrapper h1{
+    margin-bottom: 50px;
+}
+
+#wrapper p{
+    line-height: 24px;
+    
+}
+
+#solutions{
+    margin: 0px;
+}
+
+#solutions a{
+    text-decoration: none;
+    color: #666;
+    
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin: 0px 0px 20px 0px;
+    font-size: 15px;
+    color: #666;
+    display: inline-block;
+    border-radius: 3px;
+    
+}
+
+#link-button{
+    width: 200px;
+    height: 30px;
+    margin: 0px 0px 20px 0px;
+    font-size: 15px;
+    
+    display: inline-block;
+    border-radius: 3px;
+}
+
